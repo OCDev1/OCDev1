@@ -9,7 +9,7 @@
 <h3> About myself: </h3>
 👨‍💻 3rd-year Computer Science student at Bar-Ilan University with a strong passion for Software Development and Cloud technologies, Looking for a Full stack or Backend Engineer role. My academic focus includes Object-Oriented Programming, Algorithms, and Data Structures, providing a solid foundation for creating efficient, scalable software solutions.
 <br></br>
-🌐 Freelance Web Developer: Built custom websites for businesses using Shopify and WordPress, while also developing bespoke components with JavaScript, CSS, and HTML. Focused on delivering responsive, user-friendly, and optimized websites.
+🌐 Freelance Web Developer: Built custom websites for businesses using Shopify and WordPress, while also developing custom components with JavaScript, CSS, and HTML. Focused on delivering responsive, user-friendly, and optimized websites.
 <br></br>
 ⚙️ Tech Stack: React, Node.js, MongoDB, and more. I leverage these tools (and more) to build robust, scalable, and dynamic web applications.
 <br></br>
