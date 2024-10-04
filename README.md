@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
 <h3> About myself: </h3>
 👨‍💻 3rd-year Computer Science student at Bar-Ilan University with a strong passion for Software Development and Cloud technologies, Looking for a Full stack or Backend Engineer role. My academic focus includes Object-Oriented Programming, Algorithms, and Data Structures, providing a solid foundation for creating efficient, scalable software solutions.
 <br></br>
