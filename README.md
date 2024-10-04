@@ -13,8 +13,6 @@
 ⚙️ Tech Stack: React, Node.js, MongoDB, and more. I leverage these tools (and more) to build robust, scalable, and dynamic web applications.
 <br></br>
 🎨 Creativity & Automation: Passionate about building applications to automate daily tasks, constantly finding new ways to streamline processes and enhance productivity.
-<br></br>
-💡 Problem-Solving & Innovation: My enthusiasm for exploring new technologies and refining my skills drives me to continually grow as a developer.
 
 <h3> Stuff I use to write my code: </h3>
 <div align="left">
