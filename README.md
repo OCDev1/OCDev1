@@ -1,7 +1,17 @@
 <h2 align="left">Hi 👋! My name is Omri and I'm a Software Engineer and 3rd year Computer Science student @ BIU</h2>
+<h3 align="left"> I am currently looking for a Student Software Engineer role, let me know if you hear about one! </h3>
+<h3> About me: </h3>
+👨‍💻 3rd-year Computer Science student at Bar-Ilan University with a strong passion for Software Development and Cloud technologies, Looking for a Full stack or Backend Engineer role. My academic focus includes Object-Oriented Programming, Algorithms, and Data Structures, providing a solid foundation for creating efficient, scalable software solutions.
 
-###
+🌐 Freelance Web Developer: Built custom websites for businesses using Shopify and WordPress, while also developing bespoke components with JavaScript, CSS, and HTML. Focused on delivering responsive, user-friendly, and optimized websites.
 
+⚙️ Tech Stack: React, Node.js, MongoDB, and more. I leverage these tools (and more) to build robust, scalable, and dynamic web applications.
+
+🎨 Creativity & Automation: Passionate about building applications to automate daily tasks, constantly finding new ways to streamline processes and enhance productivity.
+
+💡 Problem-Solving & Innovation: My enthusiasm for exploring new technologies and refining my skills drives me to continually grow as a developer.
+
+<h3> Stuff I use to write my code: </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -35,7 +45,7 @@
 </div>
 
 ###
-
+<h3> Connect with me on LinkedIn! </h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/omri-cohen-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
