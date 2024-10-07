@@ -14,7 +14,7 @@
 <br></br>
 🎨 Creativity & Automation: Passionate about building applications to automate daily tasks, constantly finding new ways to streamline processes and enhance productivity.
 
-<h3> Stuff I use to write my code: </h3>
+<h3> Languages I use to write my code: </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -47,3 +47,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
 </div>
 
+<h3> Some of my projects: </h3>
