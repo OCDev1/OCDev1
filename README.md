@@ -47,4 +47,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
 </div>
 
-<h3> Some of my projects: </h3>
+<h2> Some of my projects: </h2>
