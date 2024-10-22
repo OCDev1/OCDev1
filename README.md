@@ -1,5 +1,6 @@
 <h2 align="left"> Hi 👋! My name is Omri, I'm a Software Engineer and a 3rd year Computer Science student @ Bar-Ilan University </h2>
 <h3 align="left"> I am actively looking for a Student Software Engineer role, Message me on LinkedIn if you know about one! </h3>
+<h3 align="left"> I challenged myself to do 1 hour of Leetcode every day, see my progress in the "1hr leetcode every day" repo. </h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/omri-cohen-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
