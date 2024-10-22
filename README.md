@@ -1,4 +1,4 @@
-<h2 align="left"> Hi 👋! My name is Omri and I'm a Software Engineer and 3rd year Computer Science student @ Bar-Ilan University </h2>
+<h2 align="left"> Hi 👋! My name is Omri, I'm a Software Engineer and a 3rd year Computer Science student @ Bar-Ilan University </h2>
 <h3 align="left"> I am actively looking for a Student Software Engineer role, Message me on LinkedIn if you know about one! </h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/omri-cohen-dev/" target="_blank">
