@@ -1,4 +1,4 @@
-<h2 align="left"> Hi 👋! My name is Omri, I'm a Software Engineer and a Computer Science graduate @ Bar-Ilan University </h2>
+<h2 align="left"> Hi 👋! My name is Omri, I'm a Software Engineer at TradeOne and a Computer Science graduate @ Bar-Ilan University </h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/omri-cohen-dev/" target="_blank">
@@ -7,11 +7,9 @@
 </div>
 <h3 align="left"> I challenged myself to do 1 hour of Leetcode every day, see my progress in the "1HR Leetcode Every Day" repo. </h3>
 <h3> About myself: </h3>
-👨‍💻 3rd-year Computer Science student at Bar-Ilan University with a strong passion for Software Development and Cloud technologies, Looking for a Full stack or Backend Engineer role. My academic focus includes Object-Oriented Programming, Algorithms, and Data Structures, providing a solid foundation for creating efficient, scalable software solutions.
+👨‍💻 Software Engineer at TradeOne and a Computer Science graduate @ Bar-Ilan University with a strong passion for Software Development and Cloud technologies, interested in Full stack or Backend engineering. My current interests include System design and architecture for creating efficient, scalable software solutions, and building cool stuff with AI and LLMs.
 <br></br>
-🌐 Freelance Web Developer: Built custom websites for businesses using Shopify and WordPress, while also developing custom components with JavaScript, CSS, and HTML. Focused on delivering responsive, user-friendly, and optimized websites.
-<br></br>
-⚙️ Tech Stack: React, Node.js, MongoDB, and more. I leverage these tools (and more) to build robust, scalable, and dynamic web applications.
+⚙️ Tech Stack: React, Node.js, AWS, MongoDB, and more. I leverage these tools to build robust, scalable, and cool applications.
 <br></br>
 🎨 Creativity & Automation: Passionate about building applications to automate daily tasks, constantly finding new ways to streamline processes and enhance productivity.
 
