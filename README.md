@@ -1,4 +1,4 @@
-<h2 align="left"> Hi 👋! My name is Omri, I'm a Software Engineer at TradeOne and a Computer Science graduate @ Bar-Ilan University </h2>
+<h2 align="left"> Hi 👋! My name is Omri, I'm a Software Engineer at TradeOne and a Computer Science graduate from Bar-Ilan University </h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/omri-cohen-dev/" target="_blank">
